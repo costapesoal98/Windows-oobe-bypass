@@ -22,6 +22,8 @@ During Windows setup (OOBE), press **Shift + F10** to open a command prompt, the
 ```cmd
 start ms-cxh:localonly
 
+```
+
 ---
 
 ## 🧭 Credit / Source
